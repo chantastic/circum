@@ -1,6 +1,6 @@
 {
   "name": "circum",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A positive array index for any number.",
   "license": "MIT",
   "repository": "chantastic/circum",
