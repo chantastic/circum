@@ -15,29 +15,22 @@ $ npm install --save circum
 ```js
 const circum = require('circum');
 
-circum('unicorns');
-//=> 'unicorns & rainbows'
+circum([1,2,3], -2);
+//=> 1
 ```
 
 
 ## API
 
-### circum(input, [options])
+### circum(arr, index)
 
-#### input
+#### arr
 
-Type: `string`
+Type: `array`
 
-Lorem ipsum.
+#### index
 
-#### options
-
-##### foo
-
-Type: `boolean`<br>
-Default: `false`
-
-Lorem ipsum.
+Type: `number`
 
 
 ## License
