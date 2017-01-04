@@ -1,0 +1,32 @@
+{
+  "name": "circum",
+  "version": "0.0.0",
+  "description": "A positive array index for any number.",
+  "license": "MIT",
+  "repository": "chantastic/circum",
+  "author": {
+    "name": "Michael Chan",
+    "email": "mijoch@gmail.com",
+    "url": "chantastic.org"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.0"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
