@@ -1,6 +1,6 @@
 # circum [![Build Status](https://travis-ci.org/chantastic/circum.svg?branch=master)](https://travis-ci.org/chantastic/circum)
 
-> A positive array index for any number.
+> An array index for any number.
 
 
 ## Install
